@@ -62,5 +62,8 @@
       "abitype": "0.8.7",
       "esbuild": "0.15.13"
     }
+  },
+  "dependencies": {
+    "@buildwithsygma/sygma-sdk-core": "^2.4.0"
   }
 }

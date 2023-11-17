@@ -80,6 +80,10 @@ export {
 } from './ens'
 
 export {
+  erc20Transfer
+} from './sygma'
+
+export {
   fetchBlockNumber,
   fetchFeeData,
   watchBlockNumber,
